@@ -1,0 +1,28 @@
+.menuButton{
+    width: 210px;
+    height: 30px;
+    border: none;
+    border-radius: 6px;
+  
+  
+    background: rgba(217, 217, 217, 0.027);
+    mix-blend-mode: normal;
+    box-shadow: 0px 4px 4px #00000040;
+    border-radius: 6px;
+    cursor: pointer;
+
+    font-size: 18px;
+    color: #595959;
+  
+    margin-bottom: 40px;
+}
+
+
+
+
+.ContentMenu{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    
+}
